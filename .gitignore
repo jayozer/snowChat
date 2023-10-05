@@ -8,4 +8,5 @@ archived_logs/
 build/
 snowchat.egg-info/
 
-chroma_db
+.streamlit/secrets.toml
+
