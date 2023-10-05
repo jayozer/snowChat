@@ -1,6 +1,6 @@
-# snowChat
+# H.E.N.R.Y
 
-SnowChat is an intuitive and user-friendly application that allows you to interact with your Snowflake data using natural language queries. Type in your questions or requests, and SnowChat will generate the appropriate SQL query and return the data you need.
+HENRY (Helpdesk Emulator for Nimble Response Yields). Interact with your Snowflake data using natural language queries. Type in your questions or requests, and HENRY will generate the SQL query and return the results from Snowflake.
 
 ## Features
 
